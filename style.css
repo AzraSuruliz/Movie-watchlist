@@ -1,0 +1,25 @@
+
+body{
+    background-color: #eec0c8;
+}
+
+.highlight { 
+    background-color:#D1E7DD; 
+}
+
+#movies_table_body{
+    background-color: #F8D7DA;
+}
+
+.table{
+    text-align: center;
+}
+
+#page_title{
+    color: black;
+    text-align:center;
+    max-width: 100%;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family: BrandonGrotesque-black,"futura-pt-1","futura-pt-2",Verdana,sans-serif;
+}
